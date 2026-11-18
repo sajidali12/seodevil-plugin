@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "seodevil": {
+      "command": "python3",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/server/run.py"],
+      "env": {
+        "PAGESPEED_API_KEY": "${PAGESPEED_API_KEY:-}"
+      }
+    }
+  }
+}

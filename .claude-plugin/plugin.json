@@ -1,0 +1,13 @@
+{
+  "name": "seodevil",
+  "version": "1.0.0",
+  "description": "Complete SEO toolkit for Claude Code: site audits and crawls, technical SEO, on-page and content optimization, structured data, Core Web Vitals, AI search (GEO) readiness, keyword research, local and international SEO, and fixes applied straight to your codebase. Zero-dependency Python MCP server.",
+  "author": {
+    "name": "SEODevil",
+    "url": "https://seodevil.com"
+  },
+  "homepage": "https://github.com/sajidali12/seodevil-plugin",
+  "repository": "https://github.com/sajidali12/seodevil-plugin",
+  "license": "MIT",
+  "keywords": ["seo", "technical-seo", "site-audit", "crawler", "schema", "structured-data", "core-web-vitals", "geo", "ai-search", "keywords", "content", "local-seo", "hreflang", "sitemap", "robots-txt"]
+}

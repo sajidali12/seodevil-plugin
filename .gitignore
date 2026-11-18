@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+seodevil-crawl.json
+migration-*.json
+SEO-REPORT.md

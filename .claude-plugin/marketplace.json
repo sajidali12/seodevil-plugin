@@ -1,0 +1,18 @@
+{
+  "name": "seodevil",
+  "owner": {
+    "name": "SEODevil",
+    "url": "https://seodevil.com"
+  },
+  "metadata": {
+    "description": "SEODevil: the open-source SEO plugin for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "seodevil",
+      "source": "./",
+      "description": "Complete SEO toolkit: audits, crawls, technical SEO, content, schema, Core Web Vitals, AI search readiness and code fixes.",
+      "category": "marketing"
+    }
+  ]
+}
